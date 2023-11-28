@@ -45,7 +45,7 @@ git clone https://github.com/SeanRiggs/Huginn-Docker-Compose_AMD_X86_ARM.git
 <b><i>Recommended:</i></b> Or move to the directory you want to install huginn in and use <b>wget</b> to pull the single docker-compose file:
 
 ```bash
-wget https://github.com/SeanRiggs/Huginn-Docker-Compose_AMD_X86_ARM/blob/main/docker-compose.yaml
+wget https://github.com/marcus-li/Huginn-Docker-Compose_AMD_X86_ARM/blob/main/docker-compose.yaml
 ```
 
 </br>
